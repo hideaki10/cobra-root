@@ -1,6 +1,6 @@
 package main
 
-import cmd "cobraroot/pkg/calc"
+import cmd "cobraroot/cmd"
 
 func main() {
 	cmd.Execute()
